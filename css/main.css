@@ -25,7 +25,7 @@ html {
   transition: all .5s linear;
 }
 
-#bear:hover #left-ear, #bear:hover #right-ear{
+#bear:hover #left-ear, #bear:hover #right-ear {
   transform: translate(0, -14px);
 }
 
